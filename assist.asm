@@ -9,6 +9,8 @@
 ;data    SEGMENT
 ;data    ENDS
 
+;ASSUME cs:code
+
 code    SEGMENT
 ;***************************************************************************
 ;×Ó³ÌÐòÃû£ºWinStart
