@@ -10,5 +10,7 @@
 
 ;>> "assist.asm" is a .asm file with Macro and Process define.
 
+;>> "snake3.txt" is a text file storing a "Image" with ASCII characters.
+
 
 ; This program can just show a START page and a rough game interface. Yes I haven't completed it .
